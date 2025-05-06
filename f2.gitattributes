@@ -1,0 +1,10 @@
+# Auto detect text files and normalize line endings
+* text=auto
+
+# Handle line endings for specific file types
+*.js text
+*.json text
+*.ts text
+*.tsx text
+*.jsx text
+*.md text
